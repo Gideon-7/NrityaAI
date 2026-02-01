@@ -4,7 +4,7 @@
 ---
 
 <hr>
-<p>name: Content Creator Platform</p>
+<p>name: NrityaAI</p>
 <p>overview: A full-stack architecture plan for building a scalable content creator platform with AI-powered video/reel generation, supporting web and mobile (React Native), with direct social media integration.</p>
 <p>todos:</p>
 <ul>
